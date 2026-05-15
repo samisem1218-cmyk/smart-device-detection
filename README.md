@@ -9,7 +9,7 @@ Improved model changed from YOLOv8n to YOLOv8s and increased the number of epoch
 The imoroved model also includes  epochs=50,
     imgsz=640,
     degrees=15,
-    fliplr=0.5,
-    hsv_v=0.4,
+    fliplr=0.5, 
+    hsv_v=0.4
 
 Results: The model successfully detects objects with bounding boxes and confidence scores.
